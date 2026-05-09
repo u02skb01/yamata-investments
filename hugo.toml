@@ -1,0 +1,10 @@
+baseURL = 'https://u02skb01.github.io/yamata-investments/'
+languageCode = 'en-us'
+title = 'Yamata Investments'
+
+[params]
+    description = 'Private investment firm focused on asymmetric capital preservation and growth.'
+
+[markup.goldmark.renderer]
+    unsafe = true
+
